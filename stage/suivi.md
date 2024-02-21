@@ -29,3 +29,9 @@ ou ont paie a la caisse.
 ### developement dans le cloud :
 
 ![img_1.png](../image/img_1.png)
+
+### github 
+Github est une sorte d'entrepôts ou on peut stoker ces codes et ou on peux les 
+modifier sur n'importe quels appareils.
+Pour enregistrer les modifications il faut commit and push.
+Appuyer sur le petit rond avec une ligne genre le métro londonien.
