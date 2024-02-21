@@ -1,5 +1,8 @@
 # suivi de stage chez worldline
 
+<hr>
+
+🎺
 
 ## Lundi :
 
@@ -10,6 +13,9 @@
 * J'ai manger dans le restaurants de l'entreprise puis j'ai jouer au jeux video.
 * J'ai vue la vie d'un pc d'en l'entreprise; le système résaux; les serveur de l'entreprise(ça fait un bruit pas possible)
 * j'ai continuer mon programme puis je suis parti
+
+<hr>
+
 
 ## MARDI :
 
