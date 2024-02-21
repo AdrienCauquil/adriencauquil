@@ -23,7 +23,7 @@
 
 #### cryptographie :
 
-![img_2.png](../image/img_2.png)
+![img_2.png](image/img_2.png)
 
 ### dev c :
 
@@ -34,7 +34,7 @@ ou ont paie a la caisse.
 
 ### developement dans le cloud :
 
-![img_1.png](../image/img_1.png)
+![img_1.png](image/img_1.png)
 
 ### github 
 Github est une sorte d'entrepôts ou on peut stoker ces codes et ou on peux les 
