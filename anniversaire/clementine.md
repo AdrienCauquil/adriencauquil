@@ -12,7 +12,7 @@
 
 ![img4.png](image/inniv_2.gif)
 
-## Tu grandi si vite 
+## Tu grandis si vite 
 
 ![img5.png](image/inniv_3.gif)
 
@@ -21,8 +21,9 @@
 ### Papa :
 
 
-### Maman :
-
+### Maman : petit crapaud
+Joyeux anniversaire pour tes 7 ans!!!
 
 ### Marie-Sarah :
+
 
