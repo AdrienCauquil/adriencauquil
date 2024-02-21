@@ -16,14 +16,14 @@
 
 ![img5.png](image/inniv_3.gif)
 
-## Dédicace
+## Dédicace 
 
-### Papa :
-
+### Papa : Ma puce
+Encore un bon anniversaire! Je t'aime!!
 
 ### Maman : petit crapaud
 Joyeux anniversaire pour tes 7 ans!!!
 
-### Marie-Sarah :
-
+### Marie-Sarah : 
+joyeux anniversaire clem!!!
 
