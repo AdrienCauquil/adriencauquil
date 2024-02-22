@@ -71,7 +71,18 @@ On a calculer notre empreinte carbone à quatre, on a eu 10 tonne de co2 par ans
 ### responsable d'application
 Ils s'occupent de regarder les problèmes des applications, les problèmes des utilisateurs,
 et des serveurs, s'il y a un problème c eux qui s'occupent de redirigé les tache et/ou 
-de conseiller les utilisateure
+de conseiller les utilisateurs.
 
-### distributeurs de billets
+### Distributeurs de billets
+Il programme les distributeurs et s'occupent de les sécuriser (dans leur emplacement, 
+leur matière et leur détection de fraude).
 
+## vendredi
+
+###
+
+###
+
+###
+
+###
