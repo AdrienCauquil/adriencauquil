@@ -61,3 +61,12 @@ Trouver des failles de sécurité pour les boucher pour éviter toute intrusion 
 ### L'environnement
 On a calculer notre empreinte carbone à quatre, on a eu 10 tonne de co2 par ans
 (perso c'est entre 6.5 et 7)
+
+## jeudi 
+
+### responsable d'application
+Ils s'occupent de regarder les problèmes des applications, les problèmes des utilisateurs,
+et des serveurs, s'il y a un problème c eux qui s'occupent de redirigé les tache et/ou 
+de conseiller les utilisateure
+
+### ccc
