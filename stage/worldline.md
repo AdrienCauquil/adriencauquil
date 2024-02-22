@@ -73,4 +73,5 @@ Ils s'occupent de regarder les problèmes des applications, les problèmes des u
 et des serveurs, s'il y a un problème c eux qui s'occupent de redirigé les tache et/ou 
 de conseiller les utilisateure
 
-### ccc
+### distributeurs de billets
+
