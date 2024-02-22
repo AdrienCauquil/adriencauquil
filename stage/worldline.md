@@ -45,6 +45,8 @@ modifier sur n'importe quels appareils.
 Pour enregistrer les modifications il faut commit and push.
 Appuyer sur le petit rond avec une ligne genre le métro londonien.
 
+<hr>
+
 ## MERCREDI
 
 ### performance et monitoring d'une application
@@ -61,6 +63,8 @@ Trouver des failles de sécurité pour les boucher pour éviter toute intrusion 
 ### L'environnement
 On a calculer notre empreinte carbone à quatre, on a eu 10 tonne de co2 par ans
 (perso c'est entre 6.5 et 7)
+
+<hr>
 
 ## jeudi 
 
