@@ -50,8 +50,7 @@ Appuyer sur le petit rond avec une ligne genre le métro londonien.
 ## MERCREDI
 
 ### performance et monitoring d'une application
-Ça consiste à gerer une application et a voire jusqu'où l'application peux aller comme par 
-exemple jusqu'a combien de donnée une application peut recevoir en même temps 
+Ça consiste à gerer une application et a voire jusqu'où l'application peux aller comme par exemple jusqu'a combien de donnée une application peut recevoir en même temps 
 ex: pour des paris en ligne.
 
 ### architecture internet
@@ -61,28 +60,27 @@ Organisation d'un projet sur internet.
 Trouver des failles de sécurité pour les boucher pour éviter toute intrusion malveillante.
 
 ### L'environnement
-On a calculer notre empreinte carbone à quatre, on a eu 10 tonne de co2 par ans
-(perso c'est entre 6.5 et 7)
+On a calculer notre empreinte carbone à quatre, on a eu 10 tonne de co2 par ans(perso c'est entre 6.5 et 7)
 
-<hr>
+<hr>`
 
 ## jeudi 
 
 ### responsable d'application
-Ils s'occupent de regarder les problèmes des applications, les problèmes des utilisateurs,
-et des serveurs, s'il y a un problème c eux qui s'occupent de redirigé les tache et/ou 
-de conseiller les utilisateurs.
+Ils s'occupent de regarder les problèmes des applications, les problèmes des utilisateurs, et des serveurs, s'il y a un problème c eux qui s'occupent de redirigé les tache et/ou de conseiller les utilisateurs.
 
 ### Distributeurs de billets
-Il programme les distributeurs et s'occupent de les sécuriser (dans leur emplacement, 
-leur matière et leur détection de fraude).
+Découverte du fonctionnement d'un distributeur de billets. Découverte du parcours d'un payment. Il programme les distributeurs et s'occupent de les sécuriser (dans leur emplacement, leur matière et leur détection de fraude).
+![chema transaction.jpg](image%2Fchema%20transaction.jpg)
+
+<hr>
 
 ## vendredi
 
-###
+### 
 
-###
+### 
 
-###
+### 
 
-###
+### 
