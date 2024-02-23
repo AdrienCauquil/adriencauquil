@@ -77,7 +77,8 @@ Découverte du fonctionnement d'un distributeur de billets. Découverte du parco
 
 ## vendredi
 
-### 
+### initiation au c++
+Le c++ est un language comme le python ou le Java et a besoins d'un IDE
 
 ### 
 
