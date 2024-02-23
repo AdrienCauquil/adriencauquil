@@ -5,7 +5,8 @@
 * **commit** : la commande capture un instant des changements du projet.
 * **push** : push pousse un ou plusieurs commits dans mon repo distant.
 * **pull** : je récupère les données de mon data distant.
-* **__**
+* **Quarkus** : un outils de développement ( le mode développement : mvn quarkus:dev). 
+* **Maven** :  un outils de gestion d'application (compile, package, ...). 
 
 
 
